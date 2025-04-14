@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+background-image:url("https://media.istockphoto.com/id/1327187531/vector/global-network-connection-world-map-point-and-line-composition-concept-of-global-business.jpg?s=612x612&w=0&k=20&c=N3zW3MVMuVm2oIjvXicriid9pi6SBHvlh-X6KWD9joc=")
+}
+h1
+{
+  color:white;
+}
+
+/* 
+.hi1
+{
+  float:right ;
+  margin-left:1200px;
+} */
+.hi2
+{
+  margin-right:500px;
+
+} 
